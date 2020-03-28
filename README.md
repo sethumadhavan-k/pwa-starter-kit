@@ -7,16 +7,16 @@ PWA Starter Kit is basic stucture for starting a PWA App
 ```
 ├── assets 
 │   └── css
-│        └── style.css
+│        └─ style.css
 │   └── js
-│        └── app.css
+│        └─ app.css
 │   └── img
-│        └── icons
+│        └─ icons
 ├── index,html 
 ├── manifest.json
 ├── sw.js 
 ```
 
 #### Lighthouse Report
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://raw.githubusercontent.com/sethumadhavan-k/pwa-starter-kit/master/lighthouse.png)
 
