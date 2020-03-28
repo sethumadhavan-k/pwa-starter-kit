@@ -1,2 +1,2 @@
-# pwa-starter-kit
+# PWA Starter Kit
 PWA Starter Kit
